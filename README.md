@@ -100,12 +100,6 @@ public class RohitBisht {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=lieutenant-Rohit&theme=tokyonight&hide_border=true"/>
 </p>
@@ -120,13 +114,6 @@ public class RohitBisht {
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 # 🤝 Let's Connect
 
