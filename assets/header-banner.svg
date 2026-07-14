@@ -7,8 +7,18 @@
     </linearGradient>
   </defs>
   <rect width="700" height="220" fill="url(#bg)"/>
-  <path d="M0,180 C150,220 350,140 700,180 L700,220 L0,220 Z" fill="#7AA2F7" opacity="0.10"/>
-  <path d="M0,190 C200,150 500,220 700,170 L700,220 L0,220 Z" fill="#7AA2F7" opacity="0.14"/>
+  <path fill="#7AA2F7" opacity="0.10">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,180 C150,220 350,140 700,180 L700,220 L0,220 Z;
+              M0,190 C150,150 350,210 700,190 L700,220 L0,220 Z;
+              M0,180 C150,220 350,140 700,180 L700,220 L0,220 Z"/>
+  </path>
+  <path fill="#7AA2F7" opacity="0.14">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,190 C200,150 500,220 700,170 L700,220 L0,220 Z;
+              M0,200 C200,180 500,190 700,180 L700,220 L0,220 Z;
+              M0,190 C200,150 500,220 700,170 L700,220 L0,220 Z"/>
+  </path>
   <text x="350" y="105" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="46" font-weight="700" fill="#7AA2F7">Rohit Bisht</text>
   <text x="350" y="142" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="19" fill="#c0caf5">Backend Developer • Java • Spring Boot</text>
 </svg>

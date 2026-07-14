@@ -2,32 +2,33 @@
   <style>
     text { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 22px; font-weight: 600; fill: #7AA2F7; text-anchor: middle; }
   </style>
-  <text x="280" y="28">Backend Developer
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.1429;1" values="280;-3000;-3000"/>
+
+  <text x="280" y="28" opacity="0">Backend Developer
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.015;0.125;0.1429;1" values="0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">Java Developer
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.1429;0.2857;1" values="-3000;280;-3000;-3000"/>
+  <text x="280" y="28" opacity="0">Java Developer
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.1429;0.1579;0.2679;0.2858;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">Spring Boot Developer
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.2857;0.4286;1" values="-3000;280;-3000;-3000"/>
+  <text x="280" y="28" opacity="0">Spring Boot Developer
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.2858;0.3008;0.4108;0.4287;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">Building Scalable Backend Systems
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.4286;0.5714;1" values="-3000;280;-3000;-3000"/>
+  <text x="280" y="28" opacity="0">Building Scalable Backend Systems
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.4287;0.4437;0.5537;0.5716;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">Problem Solver
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.5714;0.7143;1" values="-3000;280;-3000;-3000"/>
+  <text x="280" y="28" opacity="0">Problem Solver
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.5716;0.5866;0.6966;0.7145;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">System Design Learner
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.7143;0.8571;1" values="-3000;280;-3000;-3000"/>
+  <text x="280" y="28" opacity="0">System Design Learner
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.7145;0.7295;0.8395;0.8574;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="-3000" y="28">Always Learning Something New
-    <animate attributeName="x" calcMode="discrete" dur="21s" repeatCount="indefinite" begin="0s"
-      keyTimes="0;0.8571;1" values="-3000;280;-3000"/>
+  <text x="280" y="28" opacity="0">Always Learning Something New
+    <animate attributeName="opacity" dur="28s" repeatCount="indefinite"
+      keyTimes="0;0.8574;0.8724;0.9824;1" values="0;0;1;1;0"/>
   </text>
 </svg>
