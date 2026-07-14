@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Developer Coding"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Coding"/>
 </p>
 
 <p align="center">
@@ -72,9 +72,9 @@ public class RohitBisht {
 - 🎓 MCA Student passionate about **Backend Engineering**
 - ☕ Building scalable backend applications with **Java & Spring Boot**
 - 🚀 Exploring **Microservices, Distributed Systems & System Design**
-- 📈 Solving **LeetCode** problems consistently to sharpen problem-solving skills
-- 🌱 Constantly learning and improving every day
-- 🤝 Open to collaborating on Java, Backend and Open Source projects
+- 📈 Solving **LeetCode** problems consistently
+- 🌱 Constantly learning and improving
+- 🤝 Open to collaborating on Java and Backend projects
 
 ---
 
@@ -96,19 +96,14 @@ public class RohitBisht {
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lieutenant-Rohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 <p align="center">
@@ -126,8 +121,6 @@ public class RohitBisht {
 ---
 
 # 🐍 Contribution Snake
-
-> After setting up the GitHub Action, this animation will automatically update with your GitHub contributions.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
