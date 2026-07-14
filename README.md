@@ -107,7 +107,7 @@ public class RohitBisht {
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
