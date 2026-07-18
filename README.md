@@ -48,24 +48,37 @@
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
 
 ```java
+@Component
 public class Rohit implements BackendDeveloper {
 
     private final String role        = "Java / Spring Boot Developer";
-    private final String education   = "MCA, Uttaranchal University (2025\u20132027)";
-    private final String[] interests = {"Distributed Systems", "ML-backed Backends", "System Design"};
-    private final boolean  openToWork = true;
+    private final String education   = "MCA, Uttaranchal University (2025–2027)";
+    private final boolean openToWork = true;
+
+    private final String[] stack = {
+        "Java 21", "Spring Boot 3", "Spring Security", "JPA / Hibernate",
+        "PostgreSQL", "MongoDB", "Docker", "JUnit 5", "Mockito"
+    };
+
+    private final Map<String, String> links = Map.of(
+        "email",    "rohitbishtt69@gmail.com",
+        "leetcode", "rohit316 · Top 4% · 600+"
+    );
 
     @Override
     public String currentFocus() {
-        return "Building NarrativeWatch \u2014 a real-time coordinated " +
-               "narrative injection detector";
+        return "MeshPay - UPI without internet";
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Rohit().currentFocus());
     }
 }
 ```
 
 - 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
 - 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
-- 🔍 Currently building **NarrativeWatch**, a multi-signal coordinated-behavior detection system
+- 🔍 Currently building **MeshPay**, an offline distributed payment relay system
 - 📈 **600+ LeetCode problems solved** — ranked **top 4% globally**
 - 🚀 Actively interviewing for **SDE Internship** roles
 - 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
