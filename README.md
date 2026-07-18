@@ -12,17 +12,20 @@
   <img src="assets/typing-banner.svg" width="560" alt="Typing Animation"/>
 </p>
 
+<h3 align="center">Backend Developer building scalable systems with Java & Spring Boot ☕</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-bisht-078642379/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:rohitbishtt69@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/u/rohit316/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/lieutenant-Rohit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -34,6 +37,8 @@
 ---
 
 # 💫 About Me
+
+I'm an MCA student who likes turning ideas into working backend systems — from a Git-like version control tool built from scratch, to a REST API that detects coordinated bot activity on social media. Java and Spring Boot are home base; PostgreSQL, MongoDB, and Docker are how things actually ship.
 
 ```java
 public class RohitBisht {
@@ -69,12 +74,12 @@ public class RohitBisht {
 }
 ```
 
-- 🎓 MCA Student passionate about **Backend Engineering**
-- ☕ Building scalable backend applications with **Java & Spring Boot**
-- 🚀 Exploring **Microservices, Distributed Systems & System Design**
-- 📈 Solving **LeetCode** problems consistently
-- 🌱 Constantly learning and improving
-- 🤝 Open to collaborating on Java and Backend projects
+- 🎓 MCA student focused on **backend engineering** & distributed systems
+- ☕ Building scalable applications with **Java & Spring Boot**
+- 🧠 Currently deepening my grip on **System Design, Microservices & OS/DBMS** fundamentals
+- 📈 Solving **LeetCode** problems, consistently
+- 🌱 Always shipping something new
+- 🤝 Open to collaborating on backend & Java projects
 
 ---
 
@@ -131,19 +136,15 @@ public class RohitBisht {
 # 🤝 Let's Connect
 
 <p align="center">
-
 <a href="mailto:rohitbishtt69@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/rohit-bisht-078642379/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/rohit316/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
 </p>
 
 ---
