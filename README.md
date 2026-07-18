@@ -40,7 +40,7 @@
 
 🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;<code>rohit@dev:~</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=600&height=90&lines=%24+whoami;Rohit+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+NarrativeWatch+%F0%9F%94%8E+coordinated+narrative+detection;%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=600&height=90&lines=%24+whoami;Rohit+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+MeshPay+%E2%80%94+UPI+without+internet;%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
 
 </td></tr>
 </table>
@@ -62,7 +62,7 @@ public class Rohit implements BackendDeveloper {
 
     private final Map<String, String> links = Map.of(
         "email",    "rohitbishtt69@gmail.com",
-        "leetcode", "rohit316 · Top 4% · 600+"
+        "leetcode", "rohit316 · Top 4% · 767"
     );
 
     @Override
@@ -79,7 +79,7 @@ public class Rohit implements BackendDeveloper {
 - 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
 - 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
 - 🔍 Currently building **MeshPay**, an offline distributed payment relay system
-- 📈 **600+ LeetCode problems solved** — ranked **top 4% globally**
+- 📈 **767 LeetCode problems solved** — ranked **top 4% globally**
 - 🚀 Actively interviewing for **SDE Internship** roles
 - 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
 
