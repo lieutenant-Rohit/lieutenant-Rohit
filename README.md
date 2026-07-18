@@ -33,48 +33,44 @@
 
 ---
 
-# 💫 About Me
+# 🧭 About Me
+
+<table>
+<tr><td>
+
+🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;<code>rohit@dev:~</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=600&height=90&lines=%24+whoami;Rohit+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+NarrativeWatch+%F0%9F%94%8E+coordinated+narrative+detection;%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
+
+</td></tr>
+</table>
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
 
 ```java
-public class RohitBisht {
+public class Rohit implements BackendDeveloper {
 
-    String role = "Backend Developer";
-    String education = "Master of Computer Applications (MCA)";
+    private final String role        = "Java / Spring Boot Developer";
+    private final String education   = "MCA, Uttaranchal University (2025\u20132027)";
+    private final String[] interests = {"Distributed Systems", "ML-backed Backends", "System Design"};
+    private final boolean  openToWork = true;
 
-    String[] expertise = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "PostgreSQL",
-        "MongoDB"
-    };
-
-    String[] currentlyLearning = {
-        "Microservices",
-        "System Design",
-        "Software Testing",
-        "Operating Systems",
-        "DBMS",
-        "Computer Networks"
-    };
-
-    String[] interests = {
-        "Data Structures & Algorithms",
-        "Reading Novels",
-        "Swimming & Badminton",
-        "Geopolitics"
-    };
-
-    String motto = "Code. Learn. Build. Repeat.";
+    @Override
+    public String currentFocus() {
+        return "Building NarrativeWatch \u2014 a real-time coordinated " +
+               "narrative injection detector";
+    }
 }
 ```
 
-- 🎓 MCA Student passionate about **Backend Engineering**
-- ☕ Building scalable backend applications with **Java & Spring Boot**
-- 🚀 Exploring **Microservices, Distributed Systems & System Design**
-- 📈 Solving **LeetCode** problems consistently
-- 🌱 Constantly learning and improving
-- 🤝 Open to collaborating on Java and Backend projects
+- 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
+- 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
+- 🔍 Currently building **NarrativeWatch**, a multi-signal coordinated-behavior detection system
+- 📈 **600+ LeetCode problems solved** — ranked **top 4% globally**
+- 🚀 Actively interviewing for **SDE Internship** roles
+- 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
+
+<br clear="right"/>
 
 ---
 
