@@ -57,7 +57,7 @@ public class Rohit implements BackendDeveloper {
 
     private final String[] stack = {
         "Java 21", "Spring Boot 3", "Spring Security", "JPA / Hibernate",
-        "PostgreSQL", "MongoDB", "Docker", "JUnit 5", "Mockito"
+        "PostgreSQL", "MongoDB", "Redis", "Docker", "Nginx", "JUnit 5"
     };
 
     private final Map<String, String> links = Map.of(
@@ -90,7 +90,7 @@ public class Rohit implements BackendDeveloper {
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,maven,git,github,docker,linux,postman,nginx&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,redis,maven,git,github,docker,linux,postman,nginx&perline=7"/>
 </p>
 
 <p align="center">
