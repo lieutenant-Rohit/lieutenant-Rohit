@@ -84,6 +84,10 @@ public class RohitBisht {
 <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,maven,git,github,docker,linux,postman,nginx&perline=7"/>
 </p>
 
+<p align="center">
+<img src="assets/tech-cycling-banner.svg" width="620" alt="Tech Cycling Animation"/>
+</p>
+
 ---
 
 # 🏆 GitHub Trophies

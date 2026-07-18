@@ -1,0 +1,32 @@
+<svg width="620" height="50" viewBox="0 0 620 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 20px; font-weight: 600; fill: #c0caf5; text-anchor: middle; }
+    .tag { fill: #7AA2F7; font-weight: 700; }
+  </style>
+
+  <text x="310" y="32" opacity="0">
+    <tspan class="tag">☕</tspan> Java  <tspan class="tag">🌱</tspan> Spring Boot
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite"
+      keyTimes="0;0.02;0.14;0.16;1" values="0;1;1;0;0"/>
+  </text>
+  <text x="310" y="32" opacity="0">
+    <tspan class="tag">🐍</tspan> Python  <tspan class="tag">🗄️</tspan> PostgreSQL
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite"
+      keyTimes="0;0.16;0.18;0.30;0.32;1" values="0;0;1;1;0;0"/>
+  </text>
+  <text x="310" y="32" opacity="0">
+    <tspan class="tag">🍃</tspan> MongoDB  <tspan class="tag">🐬</tspan> MySQL
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite"
+      keyTimes="0;0.32;0.34;0.46;0.48;1" values="0;0;1;1;0;0"/>
+  </text>
+  <text x="310" y="32" opacity="0">
+    <tspan class="tag">🐳</tspan> Docker  <tspan class="tag">🐧</tspan> Linux  <tspan class="tag">↩️</tspan> Nginx
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite"
+      keyTimes="0;0.48;0.50;0.62;0.64;1" values="0;0;1;1;0;0"/>
+  </text>
+  <text x="310" y="32" opacity="0">
+    <tspan class="tag">🔧</tspan> Git  <tspan class="tag">🐙</tspan> GitHub  <tspan class="tag">📦</tspan> Maven  <tspan class="tag">📮</tspan> Postman
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite"
+      keyTimes="0;0.64;0.66;0.78;0.80;1" values="0;0;1;1;0;0"/>
+  </text>
+</svg>
