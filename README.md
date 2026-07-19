@@ -26,7 +26,7 @@
 ## <code>rohit@dev:~$</code> 🧭 About Me
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+about.txt" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+about.txt&cursor=false" alt="typing command"/>
 </p>
 
 <table>
@@ -34,7 +34,7 @@
 
 🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>rohit@dev:~</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=650&height=100&lines=%24+whoami;Rohit+Bisht+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+MeshPay+%E2%80%94+UPI+payments+without+internet;%24+cat+education.txt;MCA%2C+Uttaranchal+University+(2025%E2%80%932027);%24+status+--current;Open+to+SDE+Internship+roles" alt="terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=650&height=100&lines=%24+whoami;Rohit+Bisht+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+MeshPay+%E2%80%94+UPI+payments+without+internet;%24+cat+education.txt;MCA%2C+Uttaranchal+University+(2025%E2%80%932027);%24+status+--current;Open+to+SDE+Internship+roles&cursor=false" alt="terminal typing animation"/>
 
 </td></tr>
 </table>
@@ -82,7 +82,7 @@ public class Rohit implements BackendDeveloper {
 ## <code>rohit@dev:~$</code> ⚡ Tech Stack
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+tech-stack.json" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+tech-stack.json&cursor=false" alt="typing command"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ public class Rohit implements BackendDeveloper {
 ## <code>rohit@dev:~$</code> 🚀 Featured Projects
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+ls+-la+projects%2F" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+ls+-la+projects%2F&cursor=false" alt="typing command"/>
 </p>
 
 <table>
@@ -131,7 +131,7 @@ A Git-like version control system built from scratch — content-addressable obj
 ## <code>rohit@dev:~$</code> 📊 GitHub Statistics
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&height=20&lines=%24+gh+stats+--user+lieutenant-Rohit" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&height=20&lines=%24+gh+stats+--user+lieutenant-Rohit&cursor=false" alt="typing command"/>
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@ A Git-like version control system built from scratch — content-addressable obj
 ## <code>rohit@dev:~$</code> 🐍 Contribution Snake
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+python+snake.py+--animate" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+python+snake.py+--animate&cursor=false" alt="typing command"/>
 </p>
 
 <p align="center">
@@ -160,7 +160,7 @@ A Git-like version control system built from scratch — content-addressable obj
 ## <code>rohit@dev:~$</code> 💻 LeetCode
 
 <p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+leetcode+--profile+rohit316" alt="typing command"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+leetcode+--profile+rohit316&cursor=false" alt="typing command"/>
 </p>
 
 <p align="center">
@@ -177,7 +177,7 @@ A Git-like version control system built from scratch — content-addressable obj
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3000&pause=500&color=565F89&center=true&vCenter=true&width=200&height=20&lines=%24+exit" alt="typing exit"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3000&pause=500&color=565F89&center=true&vCenter=true&width=200&height=20&lines=%24+exit&cursor=false" alt="typing exit"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:6BAA75&height=120&section=footer"/>
