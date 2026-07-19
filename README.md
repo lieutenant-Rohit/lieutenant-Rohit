@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=6BAA75&label=FOLLOWERS"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=150&color=6BAA75&center=true&vCenter=true&width=520&height=130&lines=%5B++OK++%5D+Mounting+Java+21+runtime;%5B++OK++%5D+Initializing+Spring+Boot+3;%5B++OK++%5D+Starting+PostgreSQL+cluster;%5B++OK++%5D+Loading+MeshPay+dependencies;%5B++OK++%5D+System+ready.+Welcome,+Rohit."/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
@@ -89,20 +87,6 @@ public class Rohit implements BackendDeveloper {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,redis,maven,git,github,docker,linux,postman,nginx&perline=7"/>
-</p>
-
-<p align="center">
-  <code>Java 21</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/88/?width=140&color=6BAA75&suffix=%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Spring Boot 3</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/85/?width=140&color=6BAA75&suffix=%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>PostgreSQL</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/80/?width=140&color=7AA2F7&suffix=%"/>
-  <br/>
-  <code>Redis</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/70/?width=140&color=7AA2F7&suffix=%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Docker</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/65/?width=140&color=6BAA75&suffix=%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <code>MongoDB</code>&nbsp;&nbsp;<img src="https://progress-bar.dev/60/?width=140&color=7AA2F7&suffix=%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
