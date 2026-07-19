@@ -21,23 +21,13 @@
   <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=6BAA75&label=FOLLOWERS"/>
 </p>
 
-<style>
-  @keyframes bounce { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
-  @keyframes wiggle { 0%,100% { transform: rotate(0deg); } 25% { transform: rotate(-8deg); } 75% { transform: rotate(8deg); } }
-  @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.2); } }
-  @keyframes float { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-4px) rotate(3deg); } }
-  .emoji-bounce { display: inline-block; animation: bounce 2s ease-in-out infinite; }
-  .emoji-wiggle { display: inline-block; animation: wiggle 2s ease-in-out infinite; }
-  .emoji-pulse { display: inline-block; animation: pulse 2s ease-in-out infinite; }
-  .emoji-float { display: inline-block; animation: float 3s ease-in-out infinite; }
-  .sub { text-align: center; font-size: 12px; color: #7AA2F7; margin-top: -8px; margin-bottom: 12px; }
-</style>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-float">🧭</span> About Me
+## <code>rohit@dev:~$</code> 🧭 About Me
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+about.txt" alt="typing command"/>
 </p>
 
@@ -89,9 +79,9 @@ public class Rohit implements BackendDeveloper {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-pulse">⚡</span> Tech Stack
+## <code>rohit@dev:~$</code> ⚡ Tech Stack
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+tech-stack.json" alt="typing command"/>
 </p>
 
@@ -101,9 +91,9 @@ public class Rohit implements BackendDeveloper {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-bounce">🚀</span> Featured Projects
+## <code>rohit@dev:~$</code> 🚀 Featured Projects
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+ls+-la+projects%2F" alt="typing command"/>
 </p>
 
@@ -138,9 +128,9 @@ A Git-like version control system built from scratch — content-addressable obj
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-pulse">📊</span> GitHub Statistics
+## <code>rohit@dev:~$</code> 📊 GitHub Statistics
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=400&height=20&lines=%24+gh+stats+--user+lieutenant-Rohit" alt="typing command"/>
 </p>
 
@@ -151,9 +141,9 @@ A Git-like version control system built from scratch — content-addressable obj
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-wiggle">🐍</span> Contribution Snake
+## <code>rohit@dev:~$</code> 🐍 Contribution Snake
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+python+snake.py+--animate" alt="typing command"/>
 </p>
 
@@ -167,9 +157,9 @@ A Git-like version control system built from scratch — content-addressable obj
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> <span class="emoji-float">💻</span> LeetCode
+## <code>rohit@dev:~$</code> 💻 LeetCode
 
-<p align="center" class="sub">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=20&lines=%24+leetcode+--profile+rohit316" alt="typing command"/>
 </p>
 
