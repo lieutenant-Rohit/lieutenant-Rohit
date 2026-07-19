@@ -1,0 +1,36 @@
+<svg width="720" height="190" viewBox="0 0 720 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated terminal header">
+  <!-- terminal window -->
+  <rect x="0" y="0" width="720" height="190" rx="12" fill="#0d1117"/>
+
+  <!-- title bar divider -->
+  <line x1="0" y1="46" x2="720" y2="46" stroke="#22272e" stroke-width="1"/>
+
+  <!-- traffic light dots -->
+  <circle cx="30" cy="23" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="23" r="7" fill="#ffbd2e"/>
+  <circle cx="74" cy="23" r="7" fill="#27c93f"/>
+
+  <!-- window label -->
+  <text x="360" y="28" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8b949e">rohit@dev:~</text>
+
+  <!-- animated prompt lines (crossfade loop) -->
+  <text x="36" y="115" font-family="Fira Code, monospace" font-size="26" fill="#3fb950">
+    $ echo "Hi there, I'm Rohit" 👋
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite"
+      values="0;1;1;0;0" keyTimes="0;0.05;0.45;0.5;1"/>
+  </text>
+
+  <text x="36" y="115" font-family="Fira Code, monospace" font-size="26" fill="#7aa2f7">
+    &gt; Java / Spring Boot Backend Developer
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite"
+      values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1"/>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="612" y="94" width="12" height="24" fill="#3fb950">
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0;1"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="36" y="155" font-family="Fira Code, monospace" font-size="14" fill="#565f89">MCA Student · Backend Developer · Open to SDE Internships</text>
+</svg>

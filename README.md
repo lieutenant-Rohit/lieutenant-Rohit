@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BAA75,100:7AA2F7&height=200&section=header&text=Hi%20There,%20I'm%20Rohit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%2F%20Spring%20Boot%20Backend%20Developer&descAlignY=58&descSize=18"/>
+  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/terminal-header.svg" alt="animated terminal header"/>
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lieutenant-Rohit&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=6BAA75&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=lieutenant-Rohit&style=for-the-badge&color=3FB950&label=PROFILE+VIEWS&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=3FB950&label=FOLLOWERS&labelColor=0D1117"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:6BAA75&height=2&section=header" width="100%"/>
 
 ## <code>rohit@dev:~$</code> 🧭 About Me
 
