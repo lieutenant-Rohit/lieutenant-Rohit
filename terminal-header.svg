@@ -26,10 +26,7 @@
       values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1"/>
   </text>
 
-  <!-- blinking cursor -->
-  <rect x="612" y="94" width="12" height="24" fill="#3fb950">
-    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0;1"/>
-  </rect>
+
 
   <!-- subtitle -->
   <text x="36" y="155" font-family="Fira Code, monospace" font-size="14" fill="#565f89">MCA Student · Backend Developer · Open to SDE Internships</text>
