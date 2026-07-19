@@ -39,6 +39,8 @@
 </td></tr>
 </table>
 
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
+
 - 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
 - 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
 - 🔍 Currently building **MeshPay** — an offline, mesh-routed UPI payment relay
