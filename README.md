@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=6BAA75&label=FOLLOWERS"/>
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
 ## <code>rohit@dev:~$</code> 🧭 About Me
