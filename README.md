@@ -25,22 +25,6 @@
 
 ## <code>rohit@dev:~$</code> 🧭 About Me
 
-<p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=300&height=20&lines=%24+cat+about.txt&cursor=false" alt="typing command"/>
-</p>
-
-<table>
-<tr><td>
-
-🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>rohit@dev:~</code>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=500&color=6BAA75&center=false&vCenter=true&width=650&height=100&lines=%24+whoami;Rohit+Bisht+%E2%80%94+Java+%2F+Spring+Boot+Backend+Developer;%24+git+log+--oneline+-1;Building+MeshPay+%E2%80%94+UPI+payments+without+internet;%24+cat+education.txt;MCA%2C+Uttaranchal+University+(2025%E2%80%932027);%24+status+--current;Open+to+SDE+Internship+roles&cursor=false" alt="terminal typing animation"/>
-
-</td></tr>
-</table>
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation"/>
-
 - 🎓 Final-year **MCA** student at **Uttaranchal University**, Dehradun — Class of 2027
 - 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
 - 🔍 Currently building **MeshPay** — an offline, mesh-routed UPI payment relay
