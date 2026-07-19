@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/github/followers/lieutenant-Rohit?style=for-the-badge&color=6BAA75&label=FOLLOWERS"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 🧭 About Me
+## <code>rohit@dev:~$</code> 🧭 About Me
 
 <table>
 <tr><td>
@@ -71,17 +71,17 @@ public class Rohit implements BackendDeveloper {
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## ⚡ Tech Stack
+## <code>rohit@dev:~$</code> ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mongodb,mysql,redis,maven,git,github,docker,linux,postman,nginx&perline=7"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 🚀 Featured Projects
+## <code>rohit@dev:~$</code> 🚀 Featured Projects
 
 <table>
 <tr>
@@ -112,18 +112,18 @@ A Git-like version control system built from scratch — content-addressable obj
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Statistics
+## <code>rohit@dev:~$</code> 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 🐍 Contribution Snake
+## <code>rohit@dev:~$</code> 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -133,9 +133,9 @@ A Git-like version control system built from scratch — content-addressable obj
   </picture>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## 💻 LeetCode
+## <code>rohit@dev:~$</code> 💻 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/rohit316/">
@@ -143,7 +143,7 @@ A Git-like version control system built from scratch — content-addressable obj
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
 <p align="center">
   <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br/>
