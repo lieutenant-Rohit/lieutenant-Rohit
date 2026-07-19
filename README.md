@@ -114,6 +114,16 @@ A Git-like version control system built from scratch — content-addressable obj
 
 ---
 
+## 🎧 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s2xxcnwuwczej7dyd6ax7qhpv4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s2xxcnwuwczej7dyd6ax7qhpv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
