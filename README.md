@@ -49,11 +49,10 @@
 
 ### 🌱 Goals for 2026
 
-
 - [ ] 🏆 Solve **1000+ LeetCode Problems**
 - [ ] 💼 Land **SDE Internship** at top tech company
 - [ ] 🛠️ Build **5+ production-ready projects**
-- [x] 🌐 Contribute to **Open Source** projects
+- [ ] 🌐 Contribute to **Open Source** projects
 - [ ] 📈 Master **System Design & Architecture**
 
 ### 💭 Ask me about
