@@ -101,13 +101,15 @@
     <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
     <td>
       <h3><a href="https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-">📡 MeshPay</a></h3>
-      <p><i>Offline-First UPI Payment System</i><br>
-      Enable payments without internet using Bluetooth mesh networking.</p>
+      <p><i>Offline-First UPI Payment System using Bluetooth Mesh Networking</i><br>
+      Enables peer-to-peer payments without internet by leveraging Bluetooth Low Energy (BLE) mesh topology. Devices relay transactions through intermediate nodes, ensuring connectivity in remote areas. Built with Python mesh layer + Java Spring Boot backend.</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
       </p>
     </td>
   </tr>
@@ -116,12 +118,14 @@
     <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
     <td>
       <h3><a href="https://github.com/lieutenant-Rohit/BloomsCafe">🌸 BloomsCafe</a></h3>
-      <p><i>E-commerce Platform</i><br>
-      Full-stack online store with cart, payments, and admin dashboard.</p>
+      <p><i>Full-Stack E-commerce Platform with Microservices Architecture</i><br>
+      A complete online store featuring product catalog, shopping cart, secure checkout, and admin dashboard. Built with React frontend + Java Spring Boot microservices backend with Docker containerization.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
       </p>
     </td>
   </tr>
@@ -130,11 +134,12 @@
     <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
     <td>
       <h3><a href="https://github.com/lieutenant-Rohit/ChaosCraft">🎮 ChaosCraft</a></h3>
-      <p><i>Multiplayer Game</i><br>
-      Real-time multiplayer game with WebSocket communication.</p>
+      <p><i>Real-Time Multiplayer Game Simulator with Infrastructure-as-Code</i><br>
+      A multiplayer game simulator featuring backend services, infrastructure provisioning, and a web-based UI for real-time visualization. Includes simulator-backend, simulator-ui, and infrastructure modules.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
       </p>
     </td>
   </tr>
@@ -143,11 +148,11 @@
     <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
     <td>
       <h3><a href="https://github.com/lieutenant-Rohit/rex">🦖 Rex</a></h3>
-      <p><i>Custom Git Version Control System</i><br>
-      Built from scratch to understand Git internals.</p>
+      <p><i>Custom Git Version Control System - Built from Scratch</i><br>
+      A from-scratch implementation of Git to understand version control internals. Supports blob storage, tree objects, commit objects, branching, merging, and diff algorithms. Pure Java implementation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
       </p>
     </td>
   </tr>
