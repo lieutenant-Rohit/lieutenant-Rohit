@@ -1,8 +1,8 @@
-<!-- ============================ HEADER ============================ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/terminal-header.svg" alt="animated terminal header"/>
-</p>
+<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/terminal-header.svg" alt="animated terminal header"/>
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-bisht-078642379/">
@@ -24,7 +24,6 @@
 - 🛠️ Backend-focused engineer with strong **Java / Spring Boot** foundations
 - 🔍 Currently building **MeshPay** — an offline, mesh-routed UPI payment relay
 - 📈 **767+ LeetCode problems solved** — ranked **top 4% globally**
-- 🚀 Actively interviewing for **SDE Internship** roles
 - 💬 Ask me about Spring Security, JWT auth, JPA/Hibernate, or system design
 
 <details>
@@ -61,34 +60,27 @@ public class Rohit implements BackendDeveloper {
 ## <code>rohit@dev:~$</code> ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,maven,git,github,docker,linux,postman,nginx&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,docker,nginx,git,github,linux,postman&perline=7"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> 🔬 Flagship Project — MeshPay
-
-Offline UPI payment prototype that routes transactions across a 10-node phone mesh without internet — combining GPSR routing, X25519/Ed25519 encryption, and a Spring Boot bank backend.
-
-| Signal | Method |
-|---|---|
-| Mesh Routing | GPSR (Greedy Perimeter Stateless Routing) |
-| Encryption | X25519 key exchange + Ed25519 signatures |
-| Backend | Spring Boot REST API |
-| Simulation | 10-node phone mesh network |
-
-`Java 21` `Spring Boot` `Python` `Docker` `Cryptography`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
-
-## <code>rohit@dev:~$</code> 🚀 Other Projects
+## <code>rohit@dev:~$</code> 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
+### 📡 [MeshPay](https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-)
+Offline UPI payment prototype routed across 10 simulated mesh nodes using GPSR routing, X25519/Ed25519 encryption, and a Spring Boot bank backend.
+
+`Java 21` `Spring Boot` `Python` `Cryptography`
+
+</td>
+<td width="33%" valign="top">
+
 ### 🌸 [BloomsCafe](https://github.com/lieutenant-Rohit/BloomsCafe)
-Full-stack cafe e-commerce platform with JWT authentication, Redis caching, and PostgreSQL primary-replica read/write splitting. Load tested to 700 concurrent users with 0% errors.
+Full-stack cafe e-commerce platform with JWT authentication, Redis caching, and PostgreSQL primary-replica read/write splitting.
 
 `Java 21` `Spring Boot` `PostgreSQL` `Redis`
 
@@ -96,41 +88,13 @@ Full-stack cafe e-commerce platform with JWT authentication, Redis caching, and 
 <td width="33%" valign="top">
 
 ### 🦖 [Rex](https://github.com/lieutenant-Rohit/rex)
-A Git-like version control system built from scratch — content-addressable object storage, tree snapshots, and branching, no VCS libraries.
+A Git-like version control system built from scratch — content-addressable object storage, tree snapshots, and branching.
 
 `Java 21` `SHA-1` `zlib`
 
 </td>
-<td width="33%" valign="top">
-
-### 🔧 More Coming Soon...
-Building distributed systems, system design patterns, and open source tools.
-
-`Distributed Systems` `System Design`
-
-</td>
 </tr>
 </table>
-
-<details>
-<summary>🔍 Rex object model (blob → tree → commit)</summary>
-
-```
-  working dir           .rex/objects/
-  ┌──────────┐          ┌─────────────────────┐
-  │ a.txt    │  hash    │ 3a17...  [blob]      │
-  │ b.txt    │ ───────► │ 9f02...  [blob]      │
-  └──────────┘          │ c451...  [tree]  ────┼─┐
-                         │ 88de...  [commit]────┼─┼─► points to tree + parent
-                         └─────────────────────┘ │
-                                    ▲             │
-                                    └─────────────┘
-  Every object is content-addressed by SHA-1 and zlib-compressed —
-  identical content always produces the identical hash, so Rex never
-  stores the same blob twice.
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
@@ -141,29 +105,60 @@ Building distributed systems, system design patterns, and open source tools.
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=ffffff"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
+
+## <code>rohit@dev:~$</code> 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
 ## <code>rohit@dev:~$</code> 💻 LeetCode
 
-Live stats below, refreshed automatically once a day by a GitHub Action (`.github/workflows/update-readme.yml`) — no third-party badge service, just a script pulling straight from LeetCode's own API.
-
-<!--LEETCODE:START-->
-```text
-$ leetcode --profile rohit316
-Solved     : 767 problems
-  Easy     : —
-  Medium   : —
-  Hard     : —
-Global rank: —
-Updated    : not yet run — first Action run will populate this
-```
-<!--LEETCODE:END-->
+<p align="center">
+  <a href="https://leetcode.com/u/rohit316/">
+    <img src="https://leetcard.jacoblin.cool/rohit316?theme=dark&font=JetBrains_Mono&border=0&radius=20&width=600"/>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
+## <code>rohit@dev:~$</code> 🏆 GitHub Trophies
+
 <p align="center">
-  <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br/>
-  <b>— Harold Abelson</b>
+  <img src="https://github-profile-trophy.vercel.app/?username=lieutenant-Rohit&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
+
+## <code>rohit@dev:~$</code> 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
+
+## <code>rohit@dev:~$</code> 📈 Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lieutenant-Rohit&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=3FB950&currStreakLabel=7AA2F7"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:6BAA75&height=120&section=footer"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
