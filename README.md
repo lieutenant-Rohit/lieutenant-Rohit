@@ -33,10 +33,10 @@
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* **Distributed Systems Architecture** 🏗️
-* **System Design Patterns** 📐
-* **Cloud Native Development** ☁️
-* **Kubernetes & Container Orchestration** 🐳
+* **Advanced Java & Spring Ecosystem** ☕
+* **DevOps & Cloud Native (Docker, Kubernetes)** ☁️
+* **System Design & Architecture Patterns** 📐
+* **Competitive Programming & DSA** 🧩
 
 
 
