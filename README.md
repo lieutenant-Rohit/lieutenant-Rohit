@@ -172,94 +172,43 @@
 
 <!--💻Languages and Tools🛠️-->
 <details> 
-  <summary><h2 align='center'><a href="https://github.com/lieutenant-Rohit">
-<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tools</h2>
-  
-  <a href="https://github.com/lieutenant-Rohit">
-  </a>
+  <summary><h2 align='center'>Languages and Tools</h2>
  </summary> 
- <div style="display: flex; align-items: flex-start; align: center">
-<table width="100">
-</details>
-    <h3>👨‍💻 Programming and Markup Languages</h3>
-<tr>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="75">
-    </td>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="65">
-    </td>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="85" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120"/>
-    </td>
-</tr>
-</table>
-<table width="100">
-    <h3>🗄️ Databases and Cloud Hosting</h3>
-<tr>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="90" height="85"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="120">
-    </td>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="120"/>
-    </td>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="85"/>
-    </td>
-</tr>
-</table>
-<table width="100">
-    <h3>💻 Software and Tools</h3>
-<tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="120">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="120">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" width="120">
-    </td>
-</tr>
-</table>
-    <table width="100">
-    <h3>🧰 Frameworks and Libraries</h3>
-    <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/spring/spring-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="85">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-    </td>
-</tr>
-</table>
+
+<h3>👨‍💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="65">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" width="65">
+</p>
+
+<h3>🗄️ Databases</h3>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="65">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="65">
+  <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65">
+</p>
+
+<h3>💻 Software & Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" width="65">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="65">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="65">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" width="65">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
+</p>
+
+<h3>🧰 Frameworks</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/spring/spring-ar21.svg" alt="Spring" width="65">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" width="65">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" width="65">
+</p>
+
 </details>
 
 <!--🏆Competitive Coding Profile-->
