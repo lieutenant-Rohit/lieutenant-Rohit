@@ -94,10 +94,6 @@
   </a>
   </summary>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/projects-animation.svg" width="100%">
-</div>
-
 <div align="left">
 
 <table>
