@@ -98,9 +98,9 @@
 
 <table>
   <tr>
-    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td width="60" valign="top" align="center"><h1>📡</h1></td>
     <td>
-      <h3><a href="https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-">📡 MeshPay</a></h3>
+      <h3><a href="https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-">MeshPay</a></h3>
       <p><i>Offline-First UPI Payment System using Bluetooth Mesh Networking</i><br>
       Enables peer-to-peer payments without internet by leveraging Bluetooth Low Energy (BLE) mesh topology. Devices relay transactions through intermediate nodes, ensuring connectivity in remote areas. Built with Python mesh layer + Java Spring Boot backend.</p>
       <p>
@@ -115,9 +115,9 @@
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td width="60" valign="top" align="center"><h1>🌸</h1></td>
     <td>
-      <h3><a href="https://github.com/lieutenant-Rohit/BloomsCafe">🌸 BloomsCafe</a></h3>
+      <h3><a href="https://github.com/lieutenant-Rohit/BloomsCafe">BloomsCafe</a></h3>
       <p><i>Full-Stack E-commerce Platform with Microservices Architecture</i><br>
       A complete online store featuring product catalog, shopping cart, secure checkout, and admin dashboard. Built with React frontend + Java Spring Boot microservices backend with Docker containerization.</p>
       <p>
@@ -131,9 +131,9 @@
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td width="60" valign="top" align="center"><h1>🎮</h1></td>
     <td>
-      <h3><a href="https://github.com/lieutenant-Rohit/ChaosCraft">🎮 ChaosCraft</a></h3>
+      <h3><a href="https://github.com/lieutenant-Rohit/ChaosCraft">ChaosCraft</a></h3>
       <p><i>Chaos Engineering Platform for Microservices Resilience Testing</i><br>
       A production-grade chaos engineering platform that injects faults (latency, errors, service kills) into microservices, generates load traffic, and produces incident reports with root cause analysis. Features React dashboard, Java backend, Redis state store, and Grafana monitoring.</p>
       <p>
@@ -149,9 +149,9 @@
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td width="60" valign="top" align="center"><h1>🦖</h1></td>
     <td>
-      <h3><a href="https://github.com/lieutenant-Rohit/rex">🦖 Rex</a></h3>
+      <h3><a href="https://github.com/lieutenant-Rohit/rex">Rex</a></h3>
       <p><i>Custom Git Version Control System - Built from Scratch</i><br>
       A from-scratch implementation of Git to understand version control internals. Supports blob storage, tree objects, commit objects, branching, merging, and diff algorithms. Pure Java implementation.</p>
       <p>
