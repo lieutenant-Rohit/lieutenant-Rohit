@@ -57,9 +57,9 @@
 
 ### 💭 Ask me about
 
-* **Spring Boot & Security** 🛡️
-* **Offline-first Architecture** 📡
-* **Java Backend Development** ☕
+* **Java & Spring Ecosystem** ☕
+* **Databases (PostgreSQL, Redis, MongoDB)** 🗄️
+* **System Design & Architecture** 📐
 
 ### ⚡ Fun fact
 
