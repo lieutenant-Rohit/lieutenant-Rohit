@@ -76,7 +76,7 @@
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/Hunterdii/GitHub-Terminal -->
 
 <p align='center'>  <a href="https://github.com/lieutenant-Rohit">
-  <img align="center" src="https://raw.githubusercontent.com/Hunterdii/GitHub-Terminal/refs/heads/master/github_stats.svg"
+  <img align="center" src="https://raw.githubusercontent.com/ShionTeranashi/github-readme-terminal-style/master/github_stats.svg?username=lieutenant-Rohit"
 </p></a>
 
 <!--📘 Check Out My Open Source Work-->
