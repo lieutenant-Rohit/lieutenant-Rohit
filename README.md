@@ -178,8 +178,8 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="65" height="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="65" height="65">
+  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/sql-animated.svg" alt="SQL" width="65" height="65">
+  <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/go-animated.svg" alt="Go" width="65" height="65">
 </p>
 
 <h3>🗄️ Databases</h3>
