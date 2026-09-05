@@ -76,7 +76,9 @@
 <!--🌯GITHUBTERMINALSTATS💻 -->
 
 <p align='center'>
-  <img src="https://github-readme-stats-shion.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=E0E7FF&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lieutenant-Rohit">
+    <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/github_stats.svg" width="450">
+  </a>
 </p>
 
 <!--📘 Check Out My Open Source Work-->
