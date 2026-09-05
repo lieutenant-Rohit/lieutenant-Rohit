@@ -42,8 +42,9 @@
 
 ### 💻 I'm working on
 
-* **MeshPay — Offline UPI Payment System** 📡
 * **SDE Internship Preparation** 🎯
+* **Chaos Craft** 🎮
+* **BloomsCafe** ☕
 
 
 ### 🌱 Goals for 2026
