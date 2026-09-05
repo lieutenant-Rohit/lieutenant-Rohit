@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Rohit&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%" />
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Final-year+MCA+Student+%40+Uttaranchal+University;Building+MeshPay+%E2%80%94+Offline+UPI+Payments;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;767%2B+LeetCode+Problems+Solved+%7C+Top+4%25+Global" alt="Typing SVG" />
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/BgSbXTFwq5.gif" width="200" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -112,6 +125,10 @@ Building distributed systems, system design patterns, and open source tools.
 <br/>
 
 <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=lieutenant-Rohit&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&sideNums=2563EB" />
+
+<br/>
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=2563EB&line=2563EB&point=ffffff" />
 
 </div>
 
