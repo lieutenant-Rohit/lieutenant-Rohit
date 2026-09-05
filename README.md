@@ -134,12 +134,16 @@
     <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
     <td>
       <h3><a href="https://github.com/lieutenant-Rohit/ChaosCraft">🎮 ChaosCraft</a></h3>
-      <p><i>Real-Time Multiplayer Game Simulator with Infrastructure-as-Code</i><br>
-      A multiplayer game simulator featuring backend services, infrastructure provisioning, and a web-based UI for real-time visualization. Includes simulator-backend, simulator-ui, and infrastructure modules.</p>
+      <p><i>Chaos Engineering Platform for Microservices Resilience Testing</i><br>
+      A production-grade chaos engineering platform that injects faults (latency, errors, service kills) into microservices, generates load traffic, and produces incident reports with root cause analysis. Features React dashboard, Java backend, Redis state store, and Grafana monitoring.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
       </p>
     </td>
   </tr>
