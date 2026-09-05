@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="220" viewBox="0 0 450 220">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
@@ -7,7 +7,7 @@
   </defs>
   
   <!-- Background -->
-  <rect width="450" height="200" rx="10" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
+  <rect width="450" height="220" rx="10" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
   
   <!-- Title bar -->
   <rect width="450" height="30" rx="10" fill="#161B22"/>
@@ -28,32 +28,37 @@
   <!-- Line separator -->
   <line x1="20" y1="65" x2="430" y2="65" stroke="#30363D" stroke-width="1"/>
   
-  <!-- Repos -->
-  <text x="20" y="85" font-family="monospace" font-size="12" fill="#8B949E">📦 Repositories:</text>
-  <text x="400" y="85" font-family="monospace" font-size="12" fill="#3FB950" text-anchor="end">43</text>
+  <!-- Top Projects Header -->
+  <text x="20" y="85" font-family="monospace" font-size="12" fill="#FFA116">🚀 Top Projects</text>
   
-  <!-- Stars -->
-  <text x="20" y="105" font-family="monospace" font-size="12" fill="#8B949E">⭐ Stars:</text>
-  <text x="400" y="105" font-family="monospace" font-size="12" fill="#FFBD2E" text-anchor="end">1</text>
+  <!-- Project 1 -->
+  <text x="30" y="105" font-family="monospace" font-size="11" fill="#8B949E">📡 MeshPay:</text>
+  <text x="400" y="105" font-family="monospace" font-size="11" fill="#3FB950" text-anchor="end">Offline UPI</text>
   
-  <!-- Followers -->
-  <text x="20" y="125" font-family="monospace" font-size="12" fill="#8B949E">👥 Followers:</text>
-  <text x="400" y="125" font-family="monospace" font-size="12" fill="#C084FC" text-anchor="end">1</text>
+  <!-- Project 2 -->
+  <text x="30" y="120" font-family="monospace" font-size="11" fill="#8B949E">🌸 BloomsCafe:</text>
+  <text x="400" y="120" font-family="monospace" font-size="11" fill="#3FB950" text-anchor="end">E-commerce</text>
   
-  <!-- Following -->
-  <text x="20" y="145" font-family="monospace" font-size="12" fill="#8B949E">🔗 Following:</text>
-  <text x="400" y="145" font-family="monospace" font-size="12" fill="#7AA2F7" text-anchor="end">3</text>
+  <!-- Project 3 -->
+  <text x="30" y="135" font-family="monospace" font-size="11" fill="#8B949E">🦖 Rex:</text>
+  <text x="400" y="135" font-family="monospace" font-size="11" fill="#3FB950" text-anchor="end">Git VCS</text>
   
-  <!-- LeetCode -->
-  <text x="20" y="165" font-family="monospace" font-size="12" fill="#8B949E">🏆 LeetCode:</text>
-  <text x="400" y="165" font-family="monospace" font-size="12" fill="#FFA116" text-anchor="end">767+ solved</text>
+  <!-- Line separator -->
+  <line x1="20" y1="145" x2="430" y2="145" stroke="#30363D" stroke-width="1"/>
   
-  <!-- Cursor -->
-  <rect x="20" y="180" width="8" height="14" fill="#3FB950">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Total Commits -->
+  <text x="20" y="165" font-family="monospace" font-size="12" fill="#8B949E">💻 Total Commits:</text>
+  <text x="400" y="165" font-family="monospace" font-size="12" fill="#7AA2F7" text-anchor="end">500+</text>
+  
+  <!-- LeetCode Streak -->
+  <text x="20" y="185" font-family="monospace" font-size="12" fill="#8B949E">🔥 LeetCode Streak:</text>
+  <text x="400" y="185" font-family="monospace" font-size="12" fill="#FFA116" text-anchor="end">100+ days</text>
+  
+  <!-- LeetCode Solved -->
+  <text x="20" y="200" font-family="monospace" font-size="12" fill="#8B949E">🏆 Problems Solved:</text>
+  <text x="400" y="200" font-family="monospace" font-size="12" fill="#FFBD2E" text-anchor="end">767+</text>
   
   <!-- Bottom bar -->
-  <rect y="190" width="450" height="10" rx="0" fill="#161B22"/>
-  <rect x="0" y="190" width="450" height="1" fill="#30363D"/>
+  <rect y="210" width="450" height="10" rx="0" fill="#161B22"/>
+  <rect x="0" y="210" width="450" height="1" fill="#30363D"/>
 </svg>
