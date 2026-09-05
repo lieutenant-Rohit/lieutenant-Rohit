@@ -137,12 +137,22 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit?tab=repositories&sort=stargazers">
-        <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo" width="100%">
+      <a href="https://github.com/lieutenant-Rohit/rex">
+        <img src="https://gh-card-vercel.deno.dev/rex?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
       </a>
+      <p align="center"><b>🦖 Rex</b><br>
+      <i>Custom Git Version Control System</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+      </p>
     </td>
   </tr>
 </table>
+
+<a href="https://github.com/lieutenant-Rohit?tab=repositories&sort=stargazers">
+  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
+</a>
 
 </div>
 
