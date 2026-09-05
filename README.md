@@ -126,14 +126,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit/rex">
-        <img src="https://gh-card-vercel.deno.dev/rex?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
+      <a href="https://github.com/lieutenant-Rohit/ChaosCraft">
+        <img src="https://gh-card-vercel.deno.dev/ChaosCraft?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
       </a>
-      <p align="center"><b>🦖 Rex</b><br>
-      <i>Custom Git Version Control System</i></p>
+      <p align="center"><b>🎮 ChaosCraft</b><br>
+      <i>Multiplayer Game</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white">
       </p>
     </td>
     <td width="50%" valign="top">
