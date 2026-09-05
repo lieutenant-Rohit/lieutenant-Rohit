@@ -94,55 +94,58 @@
   </a>
   </summary>
 
-<div align="center">
+<div align="left">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-">
-        <img src="https://gh-card-vercel.deno.dev/MeshPay-Offline-UPI-?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
-      </a>
-      <p align="center"><b>📡 MeshPay</b><br>
-      <i>Offline-First UPI Payment System</i></p>
-      <p align="center">
+    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td>
+      <h3><a href="https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-">📡 MeshPay</a></h3>
+      <p><i>Offline-First UPI Payment System</i><br>
+      Enable payments without internet using Bluetooth mesh networking.</p>
+      <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit/BloomsCafe">
-        <img src="https://gh-card-vercel.deno.dev/BloomsCafe?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
-      </a>
-      <p align="center"><b>🌸 BloomsCafe</b><br>
-      <i>E-commerce Platform</i></p>
-      <p align="center">
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td>
+      <h3><a href="https://github.com/lieutenant-Rohit/BloomsCafe">🌸 BloomsCafe</a></h3>
+      <p><i>E-commerce Platform</i><br>
+      Full-stack online store with cart, payments, and admin dashboard.</p>
+      <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
       </p>
     </td>
   </tr>
+  <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit/ChaosCraft">
-        <img src="https://gh-card-vercel.deno.dev/ChaosCraft?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
-      </a>
-      <p align="center"><b>🎮 ChaosCraft</b><br>
-      <i>Multiplayer Game</i></p>
-      <p align="center">
+    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td>
+      <h3><a href="https://github.com/lieutenant-Rohit/ChaosCraft">🎮 ChaosCraft</a></h3>
+      <p><i>Multiplayer Game</i><br>
+      Real-time multiplayer game with WebSocket communication.</p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lieutenant-Rohit/rex">
-        <img src="https://gh-card-vercel.deno.dev/rex?theme=dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF" width="100%">
-      </a>
-      <p align="center"><b>🦖 Rex</b><br>
-      <i>Custom Git Version Control System</i></p>
-      <p align="center">
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="80" valign="top"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="60"></td>
+    <td>
+      <h3><a href="https://github.com/lieutenant-Rohit/rex">🦖 Rex</a></h3>
+      <p><i>Custom Git Version Control System</i><br>
+      Built from scratch to understand Git internals.</p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
       </p>
