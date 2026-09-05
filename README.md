@@ -73,10 +73,10 @@
 <p align="center"><a href="https://github.com/lieutenant-Rohit">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/Hunterdii/GitHub-Terminal -->
+<!--🌯GITHUBTERMINALSTATS💻 -->
 
 <p align='center'>  <a href="https://github.com/lieutenant-Rohit">
-  <img align="center" src="https://raw.githubusercontent.com/ShionTeranashi/github-readme-terminal-style/master/github_stats.svg?username=lieutenant-Rohit"
+  <img align="center" src="https://raw.githubusercontent.com/ShionTeranashi/github-readme-terminal-style/master/github_stats.svg?username=lieutenant-Rohit&theme=dark"
 </p></a>
 
 <!--📘 Check Out My Open Source Work-->
