@@ -178,10 +178,8 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="65">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" width="65">
+  <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65">
 </p>
 
 <h3>🗄️ Databases</h3>
