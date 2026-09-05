@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/terminal-header.svg" alt="animated terminal header"/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" alt="coding"/>
-
 </div>
 
 <p align="center">
