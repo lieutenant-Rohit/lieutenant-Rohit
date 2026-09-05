@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/terminal-header.svg" alt="animated terminal header"/>
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" alt="coding"/>
+
 </div>
 
 <p align="center">
@@ -14,6 +16,14 @@
   <a href="https://leetcode.com/u/rohit316/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:6BAA75&height=2&section=header" width="100%"/>
@@ -96,6 +106,14 @@ A Git-like version control system built from scratch — content-addressable obj
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wine-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wine-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wine-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wine-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wine-gif.gif" width="50"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
 ## <code>rohit@dev:~$</code> 📊 GitHub Statistics
@@ -145,7 +163,7 @@ A Git-like version control system built from scratch — content-addressable obj
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BAA75,100:7AA2F7&height=2&section=header" width="100%"/>
 
-## <code>rohit@dev:~$</code> 📈 Contribution Stats
+## <code>rohit@dev:~$</code> 📈 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lieutenant-Rohit&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=3FB950&currStreakLabel=7AA2F7"/>
@@ -153,9 +171,13 @@ A Git-like version control system built from scratch — content-addressable obj
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:6BAA75&height=120&section=footer"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+  <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-joy-gif.gif" width="50"/>
+</p>
 
 <div align="center">
 
