@@ -1,158 +1,103 @@
 <div align="center">
 
-# 🔥 ROHIT BISHT 🔥
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=10000000&pause=10000000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=%F0%9F%99%8B+Hey+there%2C+I'm+Rohit+Bisht+%F0%9F%91%8B;Backend+Developer+(Java+%2F+Spring+Boot);I+build+offline-first+systems!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2500&pause=500&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%94%A5+ROHIT+BISHT+%F0%9F%94%A5;Backend+Developer+%7C+Java+%7C+Spring+Boot;System+Design+%26+Distributed+Systems" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/rohit-bisht-078642379/">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="50"/>
+</a>
+<a href="mailto:rohitbishtt69@gmail.com">
+  <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="50"/>
+</a>
+<a href="https://leetcode.com/u/rohit316/">
+  <img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="50"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=ROHIT%20BISHT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%F0%9F%9A%80%20Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20System%20Design&descSize=18&descAlignY=58&stroke=7C3AED&strokeWidth=2"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rohit-bisht-078642379/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rohitbishtt69@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/rohit316/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://github.com/lieutenant-Rohit" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=lieutenant-Rohit&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=lieutenant-Rohit&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About
+### ✔️ I'm currently learning
 
-```yaml
-role: "Java Backend Developer | SDE Intern candidate"
-education: "MCA, Uttaranchal University, Dehradun (2027)"
-currently: "Building MeshPay — offline-first UPI payment system"
-focus: "Backend systems, distributed architecture, offline-first design"
-flagship_project: "MeshPay — mesh-routed offline UPI payments across 10-node phone mesh"
-competitive_programming: "767+ LeetCode problems | Top 4% Global Ranking"
-```
+- **Distributed Systems Architecture** 🏗️
+- **System Design Patterns** 📐
+- **Cloud Native Development** ☁️
+- **Kubernetes & Container Orchestration** 🐳
+
+### 💻 I'm working on
+
+- **MeshPay** — Offline UPI Payment System 📡
+- **SDE Internship Preparation** 🎯
+- **Open Source Contributions** 🔓
+
+### 🌱 Goals for 2026
+
+- 🏆 Solve **1000+ LeetCode Problems**
+- 💼 Land **SDE Internship** at top tech company
+- 🛠️ Build **5+ production-ready projects**
+- 🌐 Contribute to **Open Source** projects
+- 📈 Master **System Design & Architecture**
+
+### 💭 Ask me about
+
+- **Spring Boot & Security** 🛡️
+- **Offline-first Architecture** 📡
+- **System Design** 📐
+- **Java Backend Development** ☕
+
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="100"/>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Fun fact
 
-<div align="center">
+> 🐱‍💻 My code = 40% ☕ Coffee + 30% 💡 StackOverflow + 20% 🔍 Google + 10% 🤖 Me
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,docker,nginx,git,github&perline=6&theme=dark" />
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-```
-Java 21          ████████████████████ 95%
-Spring Boot      ███████████████████░ 92%
-Spring Security  █████████████████░░░ 85%
-Hibernate / JPA  █████████████████░░░ 85%
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Data & Infra**
-```
-PostgreSQL / MySQL ██████████████████░ 88%
-Redis              ████████████████░░░ 80%
-Docker             ████████████████░░░ 80%
-Nginx              ███████████████░░░░ 75%
-```
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>📡 MeshPay</h3>
-Offline UPI payments routed across a 10-node phone mesh using GPSR routing, X25519/Ed25519 encryption, and a Spring Boot bank backend.
-<br/><br/>
-<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<td width="33%" valign="top">
+
+### 📡 [MeshPay](https://github.com/lieutenant-Rohit/MeshPay-Offline-UPI-)
+Offline UPI payment prototype routed across 10 simulated mesh nodes using GPSR routing, X25519/Ed25519 encryption, and a Spring Boot bank backend.
+
+`Java 21` `Spring Boot` `Python` `Cryptography`
+
 </td>
-<td width="50%" valign="top">
-<h3>🌸 BloomsCafe</h3>
-Full-stack cafe e-commerce platform with a load-balanced Spring Boot cluster, Redis caching, and PostgreSQL read/write splitting.
-<br/><br/>
-<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<td width="33%" valign="top">
+
+### 🌸 [BloomsCafe](https://github.com/lieutenant-Rohit/BloomsCafe)
+Full-stack cafe e-commerce platform with JWT authentication, Redis caching, and PostgreSQL primary-replica read/write splitting.
+
+`Java 21` `Spring Boot` `PostgreSQL` `Redis`
+
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🦖 Rex</h3>
-A simplified Git implementation built from scratch in Java 21 with zero external dependencies — content-addressable storage, the full object model (blobs, trees, commits).
-<br/><br/>
-<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Systems-0F172A?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<h3>🔧 More Coming Soon...</h3>
-Building distributed systems, system design patterns, and open source tools.
-<br/><br/>
-<img src="https://img.shields.io/badge/Distributed-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/System%20Design-4C1D95?style=flat-square"/>
+<td width="33%" valign="top">
+
+### 🦖 [Rex](https://github.com/lieutenant-Rohit/rex)
+A simplified Git implementation built from scratch in Java 21 with zero external dependencies — content-addressable storage, the full object model.
+
+`Java 21` `SHA-1` `zlib`
+
 </td>
 </tr>
 </table>
-</div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieutenant-Rohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED" />
-
-<br/>
-
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=lieutenant-Rohit&theme=tokyonight&hide_border=true&background=0F172A&ring=7C3AED&fire=7C3AED&sideNums=7C3AED" />
-
-<br/>
-
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=7C3AED&line=7C3AED&point=ffffff" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 💻 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/rohit316/">
-  <img src="https://leetcard.jacoblin.cool/rohit316?theme=neon&font=JetBrains_Mono&border=0&radius=20&width=600"/>
+<a href="https://github.com/lieutenant-Rohit?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.deno.dev/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo" />
 </a>
 
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Competitive Programming
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lieutenant-Rohit&theme=neon&no-frame=true&no-bg=false&margin-w=4&column=7"/>
-
-</div>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rohit316/)
 
 ---
 
@@ -166,10 +111,46 @@ Building distributed systems, system design patterns, and open source tools.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=120&section=footer"/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://github-readme-stats-shion.vercel.app/api?username=lieutenant-Rohit&show_icons=true&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1FdDeB&bg_color=0D1117" width="50%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lieutenant-Rohit&theme=github-dark-blue"/>
+
+<br/>
+
+<img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=lieutenant-Rohit&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=8" width="50%"/>
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏅 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=lieutenant-Rohit&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+<div align="center">
+
+**Note:** Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface.
+
+---
+
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="100"/>
+
+*😊 **I enjoy making new connections,** so feel free to **reach out if you'd like to chat further!***
