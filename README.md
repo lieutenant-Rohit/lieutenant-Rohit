@@ -51,7 +51,7 @@
 
 - [ ] 🏆 Solve **1000+ LeetCode Problems**
 - [ ] 💼 Land **SDE Internship** at top tech company
-- [ ] 🛠️ Build **5+ production-ready projects**
+- [ ] 🛠️ Build **2 production-ready projects**
 - [ ] 🌐 Contribute to **Open Source** projects
 - [ ] 📈 Master **System Design & Architecture**
 
