@@ -1,151 +1,109 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="250" viewBox="0 0 300 250">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
   </defs>
   
   <!-- Background -->
-  <rect width="300" height="250" rx="16" fill="url(#bg)" stroke="#00ff00" stroke-width="1" opacity="0.8"/>
+  <rect width="300" height="250" rx="16" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
   
-  <!-- Matrix rain columns -->
-  <g font-family="monospace" font-size="12" fill="#00ff00" filter="url(#glow)">
-    <!-- Column 1 -->
-    <text x="20" y="20" opacity="0.8">0</text>
-    <text x="20" y="35" opacity="0.7">1</text>
-    <text x="20" y="50" opacity="0.6">0</text>
-    <text x="20" y="65" opacity="0.5">1</text>
-    <text x="20" y="80" opacity="0.4">1</text>
-    <text x="20" y="95" opacity="0.3">0</text>
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 2 -->
-    <text x="45" y="30" opacity="0.7">1</text>
-    <text x="45" y="45" opacity="0.6">0</text>
-    <text x="45" y="60" opacity="0.5">1</text>
-    <text x="45" y="75" opacity="0.4">0</text>
-    <text x="45" y="90" opacity="0.3">1</text>
-    <text x="45" y="105" opacity="0.2">0</text>
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 3 -->
-    <text x="70" y="15" opacity="0.9">1</text>
-    <text x="70" y="30" opacity="0.8">0</text>
-    <text x="70" y="45" opacity="0.7">1</text>
-    <text x="70" y="60" opacity="0.6">0</text>
-    <text x="70" y="75" opacity="0.5">1</text>
-    <text x="70" y="90" opacity="0.4">0</text>
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 4 -->
-    <text x="95" y="25" opacity="0.6">0</text>
-    <text x="95" y="40" opacity="0.5">1</text>
-    <text x="95" y="55" opacity="0.4">0</text>
-    <text x="95" y="70" opacity="0.3">1</text>
-    <text x="95" y="85" opacity="0.2">0</text>
-    <text x="95" y="100" opacity="0.1">1</text>
-    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 5 -->
-    <text x="120" y="10" opacity="0.8">1</text>
-    <text x="120" y="25" opacity="0.7">0</text>
-    <text x="120" y="40" opacity="0.6">1</text>
-    <text x="120" y="55" opacity="0.5">0</text>
-    <text x="120" y="70" opacity="0.4">1</text>
-    <text x="120" y="85" opacity="0.3">0</text>
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 6 -->
-    <text x="145" y="35" opacity="0.7">0</text>
-    <text x="145" y="50" opacity="0.6">1</text>
-    <text x="145" y="65" opacity="0.5">0</text>
-    <text x="145" y="80" opacity="0.4">1</text>
-    <text x="145" y="95" opacity="0.3">0</text>
-    <text x="145" y="110" opacity="0.2">1</text>
-    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 7 -->
-    <text x="170" y="20" opacity="0.9">1</text>
-    <text x="170" y="35" opacity="0.8">0</text>
-    <text x="170" y="50" opacity="0.7">1</text>
-    <text x="170" y="65" opacity="0.6">0</text>
-    <text x="170" y="80" opacity="0.5">1</text>
-    <text x="170" y="95" opacity="0.4">0</text>
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 8 -->
-    <text x="195" y="30" opacity="0.6">0</text>
-    <text x="195" y="45" opacity="0.5">1</text>
-    <text x="195" y="60" opacity="0.4">0</text>
-    <text x="195" y="75" opacity="0.3">1</text>
-    <text x="195" y="90" opacity="0.2">0</text>
-    <text x="195" y="105" opacity="0.1">1</text>
-    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 9 -->
-    <text x="220" y="15" opacity="0.8">1</text>
-    <text x="220" y="30" opacity="0.7">0</text>
-    <text x="220" y="45" opacity="0.6">1</text>
-    <text x="220" y="60" opacity="0.5">0</text>
-    <text x="220" y="75" opacity="0.4">1</text>
-    <text x="220" y="90" opacity="0.3">0</text>
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 10 -->
-    <text x="245" y="25" opacity="0.7">0</text>
-    <text x="245" y="40" opacity="0.6">1</text>
-    <text x="245" y="55" opacity="0.5">0</text>
-    <text x="245" y="70" opacity="0.4">1</text>
-    <text x="245" y="85" opacity="0.3">0</text>
-    <text x="245" y="100" opacity="0.2">1</text>
-    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-    
-    <!-- Column 11 -->
-    <text x="270" y="10" opacity="0.9">1</text>
-    <text x="270" y="25" opacity="0.8">0</text>
-    <text x="270" y="40" opacity="0.7">1</text>
-    <text x="270" y="55" opacity="0.6">0</text>
-    <text x="270" y="70" opacity="0.5">1</text>
-    <text x="270" y="85" opacity="0.4">0</text>
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
-  </g>
+  <!-- Desk -->
+  <rect x="50" y="180" width="200" height="10" rx="3" fill="#21262D"/>
   
-  <!-- Center text -->
-  <text x="150" y="140" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#00ff00" filter="url(#glow)">
-    <tspan>CODING</tspan>
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
-  </text>
-  <text x="150" y="160" text-anchor="middle" font-family="monospace" font-size="12" fill="#00ff00" filter="url(#glow)">
-    <tspan>IN THE MATRIX</tspan>
-    <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
-  </text>
+  <!-- Person body -->
+  <ellipse cx="150" cy="200" rx="40" ry="30" fill="#30363D"/>
   
-  <!-- Bottom bar -->
-  <rect x="10" y="200" width="280" height="40" rx="8" fill="#001100" stroke="#00ff00" stroke-width="1" opacity="0.5"/>
-  <text x="150" y="225" text-anchor="middle" font-family="monospace" font-size="11" fill="#00ff00">
-    <tspan>while(alive) { code(); }</tspan>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
-  </text>
+  <!-- Head -->
+  <circle cx="150" cy="155" r="25" fill="#F0F6FC"/>
   
-  <!-- Falling characters animation -->
-  <g font-family="monospace" font-size="10" fill="#00ff00" opacity="0.6">
-    <text x="30" y="120">a</text>
-    <animate attributeName="y" values="120;200;120" dur="3s" repeatCount="indefinite"/>
-    <text x="80" y="100">b</text>
-    <animate attributeName="y" values="100;200;100" dur="2.5s" repeatCount="indefinite"/>
-    <text x="130" y="130">c</text>
-    <animate attributeName="y" values="130;200;130" dur="2.8s" repeatCount="indefinite"/>
-    <text x="180" y="110">d</text>
-    <animate attributeName="y" values="110;200;110" dur="3.2s" repeatCount="indefinite"/>
-    <text x="230" y="140">e</text>
-    <animate attributeName="y" values="140;200;140" dur="2.7s" repeatCount="indefinite"/>
-  </g>
+  <!-- Hair -->
+  <path d="M125 145 Q150 120 175 145" fill="#21262D"/>
+  
+  <!-- Eyes -->
+  <circle cx="142" cy="155" r="3" fill="#0D1117"/>
+  <circle cx="158" cy="155" r="3" fill="#0D1117">
+    <animate attributeName="ry" values="3;0.5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Smile -->
+  <path d="M140 165 Q150 175 160 165" fill="none" stroke="#0D1117" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Laptop base -->
+  <rect x="95" y="175" width="110" height="8" rx="2" fill="#21262D"/>
+  
+  <!-- Laptop screen -->
+  <rect x="100" y="120" width="100" height="55" rx="4" fill="url(#screen)" stroke="#30363D" stroke-width="2"/>
+  
+  <!-- Screen glare -->
+  <rect x="102" y="122" width="96" height="2" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Code lines on screen -->
+  <rect x="108" y="130" width="35" height="4" rx="1" fill="#3FB950" opacity="0.8">
+    <animate attributeName="width" values="35;50;35" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="108" y="138" width="50" height="4" rx="1" fill="#58A6FF" opacity="0.8">
+    <animate attributeName="width" values="50;30;50" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="108" y="146" width="25" height="4" rx="1" fill="#FFA116" opacity="0.8">
+    <animate attributeName="width" values="25;45;25" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="108" y="154" width="40" height="4" rx="1" fill="#C084FC" opacity="0.8">
+    <animate attributeName="width" values="40;20;40" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="108" y="162" width="30" height="4" rx="1" fill="#F75C7E" opacity="0.8">
+    <animate attributeName="width" values="30;55;30" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Cursor -->
+  <rect x="108" y="168" width="2" height="6" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Coffee cup -->
+  <rect x="220" y="165" width="15" height="18" rx="2" fill="#F0F6FC"/>
+  <rect x="235" y="170" width="8" height="10" rx="4" fill="none" stroke="#F0F6FC" stroke-width="2"/>
+  
+  <!-- Steam -->
+  <path d="M225 160 Q227 155 225 150" fill="none" stroke="#8B949E" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="d" values="M225 160 Q227 155 225 150;M225 160 Q223 155 225 148;M225 160 Q227 155 225 150" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M230 160 Q232 155 230 150" fill="none" stroke="#8B949E" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="d" values="M230 160 Q232 155 230 150;M230 160 Q228 155 230 148;M230 160 Q232 155 230 150" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Plant -->
+  <rect x="55" y="165" width="12" height="15" rx="2" fill="#238636"/>
+  <ellipse cx="61" cy="155" rx="15" ry="12" fill="#3FB950"/>
+  
+  <!-- Keyboard -->
+  <rect x="110" y="183" width="80" height="5" rx="1" fill="#161B22"/>
+  
+  <!-- Keyboard lights -->
+  <circle cx="120" cy="185" r="1" fill="#3FB950" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="130" cy="185" r="1" fill="#58A6FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  <circle cx="140" cy="185" r="1" fill="#FFA116" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <circle cx="150" cy="185" r="1" fill="#C084FC" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.9s"/>
+  </circle>
+  <circle cx="160" cy="185" r="1" fill="#F75C7E" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.2s"/>
+  </circle>
+  <circle cx="170" cy="185" r="1" fill="#3FB950" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+  <circle cx="180" cy="185" r="1" fill="#58A6FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.8s"/>
+  </circle>
 </svg>
