@@ -277,23 +277,6 @@
 <b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse.
 
 <!--📈ACTIVITYGRAPH -->
-<h3>📈 Activity Graph </h3>
-
-<table width="100">
-        <tr border="0">
-      <td align='center' width="1010">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</a>
-</td>
-</tr>
-</table>
-<!--🏗️ Contributions (3D View)-->
-<h3>🏗️ Contributions (3D View) </h3> 
-<div align="center">
-        
-<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/profile-3d-contrib/profile-night-green.svg" width="100%">
-</div>
 </details>
 
 <details>
