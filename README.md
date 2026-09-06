@@ -292,7 +292,7 @@
 <h3>🏗️ Contributions (3D View) </h3> 
 <div align="center">
         
-![3D-Graph-Contribution](https://raw.githubusercontent.com/Hunterdii/Hunterdii/main/profile-3d-contrib/profile-night-green.svg)
+<img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/profile-3d-contrib/profile-night-green.svg" width="100%">
 </div>
 </details>
 
