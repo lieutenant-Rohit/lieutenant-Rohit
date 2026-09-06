@@ -26,7 +26,7 @@
 </p></h2>
 <!--💻Big SVG Coding-->
   <a href="https://github.com/lieutenant-Rohit">
-<img align='right' src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/matrix-animation.svg" width="300"></a>
+<img align='left' src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/matrix-animation.svg" width="400"></a>
 
 <!--💫 About Me-->
 
