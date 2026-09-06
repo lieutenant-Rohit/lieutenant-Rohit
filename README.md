@@ -1,5 +1,5 @@
 <!--💬TYPINGSVG -->
-   <p align="center"><a href="https://github.com/lieutenant-Rohit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Rohit+Bisht!"  alt="Typing SVG" align="center"  /></a>
+   <p align="center"><a href="https://github.com/lieutenant-Rohit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2&pause=1000&color=27ae60&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Rohit+Bisht!;+%F0%9F%98%8A+Welcome+to+my+profile!;+%E2%9C%A8+Let's+build+something+great!&center=true"  alt="Typing SVG" align="center"  /></a>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
