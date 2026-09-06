@@ -201,7 +201,6 @@
 
 <h3>🧰 Frameworks</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/spring/spring-ar21.svg" alt="Spring" width="65">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" width="65">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" width="65">
