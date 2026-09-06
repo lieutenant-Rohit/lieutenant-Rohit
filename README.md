@@ -361,7 +361,7 @@ public class RohitBisht implements BackendDeveloper {
 <img src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<em> 😊<b>  I enjoy making new connections,</b> so feel free to <b>reach out if you'd like to chat further!</b></em>
+<em> 💬<b> Open to collaborations & SDE internships,</b> let's <b>build something amazing together!</b></em>
 </br>
 
 <div align="left">
