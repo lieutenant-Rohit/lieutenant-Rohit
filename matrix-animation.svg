@@ -11,168 +11,102 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    
+    <!-- Falling animation -->
+    <style>
+      @keyframes fall {
+        0% { transform: translateY(-50px); opacity: 1; }
+        100% { transform: translateY(350px); opacity: 0.3; }
+      }
+      .rain { animation: fall linear infinite; }
+      .r1 { animation-duration: 2s; }
+      .r2 { animation-duration: 2.5s; }
+      .r3 { animation-duration: 1.8s; }
+      .r4 { animation-duration: 3s; }
+      .r5 { animation-duration: 2.2s; }
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
   </defs>
   
   <!-- Background -->
   <rect width="400" height="300" rx="16" fill="url(#bg)" stroke="#00ff00" stroke-width="1" opacity="0.8"/>
   
-  <!-- Matrix rain - Column 1 falling -->
+  <!-- Rain columns -->
   <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="30">0</text>
-    <animate attributeName="y" values="-20;320" dur="2s" repeatCount="indefinite"/>
-    <text x="30">1</text>
-    <animate attributeName="y" values="-40;300" dur="2s" repeatCount="indefinite" begin="0.3s"/>
-    <text x="30">1</text>
-    <animate attributeName="y" values="-60;280" dur="2s" repeatCount="indefinite" begin="0.6s"/>
-    <text x="30">0</text>
-    <animate attributeName="y" values="-80;260" dur="2s" repeatCount="indefinite" begin="0.9s"/>
+    <!-- Column 1 -->
+    <text class="rain r1" x="30" y="-20" style="animation-delay: 0s;">0</text>
+    <text class="rain r1" x="30" y="-60" style="animation-delay: 0.5s;">1</text>
+    <text class="rain r1" x="30" y="-100" style="animation-delay: 1s;">0</text>
+    
+    <!-- Column 2 -->
+    <text class="rain r2" x="60" y="-30" style="animation-delay: 0.2s;">1</text>
+    <text class="rain r2" x="60" y="-70" style="animation-delay: 0.7s;">0</text>
+    <text class="rain r2" x="60" y="-110" style="animation-delay: 1.2s;">1</text>
+    
+    <!-- Column 3 -->
+    <text class="rain r3" x="90" y="-10" style="animation-delay: 0.4s;">0</text>
+    <text class="rain r3" x="90" y="-50" style="animation-delay: 0.9s;">1</text>
+    <text class="rain r3" x="90" y="-90" style="animation-delay: 1.4s;">0</text>
+    
+    <!-- Column 4 -->
+    <text class="rain r4" x="120" y="-40" style="animation-delay: 0.1s;">1</text>
+    <text class="rain r4" x="120" y="-80" style="animation-delay: 0.6s;">0</text>
+    <text class="rain r4" x="120" y="-120" style="animation-delay: 1.1s;">1</text>
+    
+    <!-- Column 5 -->
+    <text class="rain r5" x="150" y="-25" style="animation-delay: 0.3s;">0</text>
+    <text class="rain r5" x="150" y="-65" style="animation-delay: 0.8s;">1</text>
+    <text class="rain r5" x="150" y="-105" style="animation-delay: 1.3s;">0</text>
+    
+    <!-- Column 6 -->
+    <text class="rain r1" x="180" y="-35" style="animation-delay: 0.5s;">1</text>
+    <text class="rain r1" x="180" y="-75" style="animation-delay: 1s;">0</text>
+    <text class="rain r1" x="180" y="-115" style="animation-delay: 1.5s;">1</text>
+    
+    <!-- Column 7 -->
+    <text class="rain r2" x="210" y="-15" style="animation-delay: 0.2s;">0</text>
+    <text class="rain r2" x="210" y="-55" style="animation-delay: 0.7s;">1</text>
+    <text class="rain r2" x="210" y="-95" style="animation-delay: 1.2s;">0</text>
+    
+    <!-- Column 8 -->
+    <text class="rain r3" x="240" y="-45" style="animation-delay: 0.4s;">1</text>
+    <text class="rain r3" x="240" y="-85" style="animation-delay: 0.9s;">0</text>
+    <text class="rain r3" x="240" y="-125" style="animation-delay: 1.4s;">1</text>
+    
+    <!-- Column 9 -->
+    <text class="rain r4" x="270" y="-20" style="animation-delay: 0.1s;">0</text>
+    <text class="rain r4" x="270" y="-60" style="animation-delay: 0.6s;">1</text>
+    <text class="rain r4" x="270" y="-100" style="animation-delay: 1.1s;">0</text>
+    
+    <!-- Column 10 -->
+    <text class="rain r5" x="300" y="-30" style="animation-delay: 0.3s;">1</text>
+    <text class="rain r5" x="300" y="-70" style="animation-delay: 0.8s;">0</text>
+    <text class="rain r5" x="300" y="-110" style="animation-delay: 1.3s;">1</text>
+    
+    <!-- Column 11 -->
+    <text class="rain r1" x="330" y="-25" style="animation-delay: 0.5s;">0</text>
+    <text class="rain r1" x="330" y="-65" style="animation-delay: 1s;">1</text>
+    <text class="rain r1" x="330" y="-105" style="animation-delay: 1.5s;">0</text>
+    
+    <!-- Column 12 -->
+    <text class="rain r2" x="360" y="-40" style="animation-delay: 0.2s;">1</text>
+    <text class="rain r2" x="360" y="-80" style="animation-delay: 0.7s;">0</text>
+    <text class="rain r2" x="360" y="-120" style="animation-delay: 1.2s;">1</text>
   </g>
   
-  <!-- Matrix rain - Column 2 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="60">1</text>
-    <animate attributeName="y" values="-30;310" dur="2.2s" repeatCount="indefinite" begin="0.2s"/>
-    <text x="60">0</text>
-    <animate attributeName="y" values="-50;290" dur="2.2s" repeatCount="indefinite" begin="0.5s"/>
-    <text x="60">1</text>
-    <animate attributeName="y" values="-70;270" dur="2.2s" repeatCount="indefinite" begin="0.8s"/>
-    <text x="60">0</text>
-    <animate attributeName="y" values="-90;250" dur="2.2s" repeatCount="indefinite" begin="1.1s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 3 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="90">0</text>
-    <animate attributeName="y" values="-25;315" dur="1.8s" repeatCount="indefinite" begin="0.4s"/>
-    <text x="90">1</text>
-    <animate attributeName="y" values="-45;295" dur="1.8s" repeatCount="indefinite" begin="0.7s"/>
-    <text x="90">0</text>
-    <animate attributeName="y" values="-65;275" dur="1.8s" repeatCount="indefinite" begin="1s"/>
-    <text x="90">1</text>
-    <animate attributeName="y" values="-85;255" dur="1.8s" repeatCount="indefinite" begin="1.3s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 4 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="120">1</text>
-    <animate attributeName="y" values="-35;305" dur="2.1s" repeatCount="indefinite" begin="0.1s"/>
-    <text x="120">0</text>
-    <animate attributeName="y" values="-55;285" dur="2.1s" repeatCount="indefinite" begin="0.4s"/>
-    <text x="120">1</text>
-    <animate attributeName="y" values="-75;265" dur="2.1s" repeatCount="indefinite" begin="0.7s"/>
-    <text x="120">0</text>
-    <animate attributeName="y" values="-95;245" dur="2.1s" repeatCount="indefinite" begin="1s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 5 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="150">0</text>
-    <animate attributeName="y" values="-15;325" dur="2.3s" repeatCount="indefinite" begin="0.3s"/>
-    <text x="150">1</text>
-    <animate attributeName="y" values="-35;305" dur="2.3s" repeatCount="indefinite" begin="0.6s"/>
-    <text x="150">0</text>
-    <animate attributeName="y" values="-55;285" dur="2.3s" repeatCount="indefinite" begin="0.9s"/>
-    <text x="150">1</text>
-    <animate attributeName="y" values="-75;265" dur="2.3s" repeatCount="indefinite" begin="1.2s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 6 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="180">1</text>
-    <animate attributeName="y" values="-28;312" dur="1.9s" repeatCount="indefinite" begin="0.5s"/>
-    <text x="180">0</text>
-    <animate attributeName="y" values="-48;292" dur="1.9s" repeatCount="indefinite" begin="0.8s"/>
-    <text x="180">1</text>
-    <animate attributeName="y" values="-68;272" dur="1.9s" repeatCount="indefinite" begin="1.1s"/>
-    <text x="180">0</text>
-    <animate attributeName="y" values="-88;252" dur="1.9s" repeatCount="indefinite" begin="1.4s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 7 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="210">0</text>
-    <animate attributeName="y" values="-22;318" dur="2.4s" repeatCount="indefinite" begin="0.2s"/>
-    <text x="210">1</text>
-    <animate attributeName="y" values="-42;298" dur="2.4s" repeatCount="indefinite" begin="0.5s"/>
-    <text x="210">0</text>
-    <animate attributeName="y" values="-62;278" dur="2.4s" repeatCount="indefinite" begin="0.8s"/>
-    <text x="210">1</text>
-    <animate attributeName="y" values="-82;258" dur="2.4s" repeatCount="indefinite" begin="1.1s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 8 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="240">1</text>
-    <animate attributeName="y" values="-32;308" dur="2s" repeatCount="indefinite" begin="0.6s"/>
-    <text x="240">0</text>
-    <animate attributeName="y" values="-52;288" dur="2s" repeatCount="indefinite" begin="0.9s"/>
-    <text x="240">1</text>
-    <animate attributeName="y" values="-72;268" dur="2s" repeatCount="indefinite" begin="1.2s"/>
-    <text x="240">0</text>
-    <animate attributeName="y" values="-92;248" dur="2s" repeatCount="indefinite" begin="1.5s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 9 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="270">0</text>
-    <animate attributeName="y" values="-18;322" dur="2.1s" repeatCount="indefinite" begin="0.4s"/>
-    <text x="270">1</text>
-    <animate attributeName="y" values="-38;302" dur="2.1s" repeatCount="indefinite" begin="0.7s"/>
-    <text x="270">0</text>
-    <animate attributeName="y" values="-58;282" dur="2.1s" repeatCount="indefinite" begin="1s"/>
-    <text x="270">1</text>
-    <animate attributeName="y" values="-78;262" dur="2.1s" repeatCount="indefinite" begin="1.3s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 10 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="300">1</text>
-    <animate attributeName="y" values="-26;314" dur="1.8s" repeatCount="indefinite" begin="0.3s"/>
-    <text x="300">0</text>
-    <animate attributeName="y" values="-46;294" dur="1.8s" repeatCount="indefinite" begin="0.6s"/>
-    <text x="300">1</text>
-    <animate attributeName="y" values="-66;274" dur="1.8s" repeatCount="indefinite" begin="0.9s"/>
-    <text x="300">0</text>
-    <animate attributeName="y" values="-86;254" dur="1.8s" repeatCount="indefinite" begin="1.2s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 11 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="330">0</text>
-    <animate attributeName="y" values="-20;320" dur="2.2s" repeatCount="indefinite" begin="0.5s"/>
-    <text x="330">1</text>
-    <animate attributeName="y" values="-40;300" dur="2.2s" repeatCount="indefinite" begin="0.8s"/>
-    <text x="330">0</text>
-    <animate attributeName="y" values="-60;280" dur="2.2s" repeatCount="indefinite" begin="1.1s"/>
-    <text x="330">1</text>
-    <animate attributeName="y" values="-80;260" dur="2.2s" repeatCount="indefinite" begin="1.4s"/>
-  </g>
-  
-  <!-- Matrix rain - Column 12 falling -->
-  <g font-family="monospace" font-size="14" fill="#00ff00" filter="url(#glow)">
-    <text x="360">1</text>
-    <animate attributeName="y" values="-30;310" dur="2.3s" repeatCount="indefinite" begin="0.1s"/>
-    <text x="360">0</text>
-    <animate attributeName="y" values="-50;290" dur="2.3s" repeatCount="indefinite" begin="0.4s"/>
-    <text x="360">1</text>
-    <animate attributeName="y" values="-70;270" dur="2.3s" repeatCount="indefinite" begin="0.7s"/>
-    <text x="360">0</text>
-    <animate attributeName="y" values="-90;250" dur="2.3s" repeatCount="indefinite" begin="1s"/>
-  </g>
-  
-  <!-- Center text -->
-  <rect x="120" y="130" width="160" height="50" rx="8" fill="#001100" stroke="#00ff00" stroke-width="2"/>
-  <text x="200" y="155" text-anchor="middle" font-family="monospace" font-size="18" font-weight="bold" fill="#00ff00" filter="url(#glow)">
+  <!-- Center text box -->
+  <rect x="100" y="120" width="200" height="60" rx="8" fill="#001100" stroke="#00ff00" stroke-width="2"/>
+  <text x="200" y="148" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#00ff00" filter="url(#glow)">
     <tspan>MATRIX</tspan>
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
   </text>
-  <text x="200" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#00ff00">
+  <text x="200" y="168" text-anchor="middle" font-family="monospace" font-size="11" fill="#00ff00">
     <tspan>NEO@ZION:~$</tspan>
-    <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite"/>
   </text>
   
   <!-- Blinking cursor -->
-  <rect x="285" y="164" width="8" height="12" fill="#00ff00">
-    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
+  <rect class="blink" x="275" y="158" width="8" height="12" fill="#00ff00"/>
 </svg>
