@@ -1,109 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="250" viewBox="0 0 300 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
-    </linearGradient>
   </defs>
   
   <!-- Background -->
-  <rect width="300" height="250" rx="16" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
+  <rect width="300" height="300" rx="16" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
   
   <!-- Desk -->
-  <rect x="50" y="180" width="200" height="10" rx="3" fill="#21262D"/>
+  <rect x="30" y="220" width="240" height="15" rx="4" fill="#8B7355"/>
+  <rect x="30" y="220" width="240" height="5" rx="2" fill="#A08060"/>
   
-  <!-- Person body -->
-  <ellipse cx="150" cy="200" rx="40" ry="30" fill="#30363D"/>
+  <!-- Cat body -->
+  <ellipse cx="150" cy="210" rx="50" ry="35" fill="#1A1A1A"/>
   
-  <!-- Head -->
-  <circle cx="150" cy="155" r="25" fill="#F0F6FC"/>
+  <!-- Cat paws on keyboard -->
+  <ellipse cx="120" cy="205" rx="15" ry="10" fill="#FFFFFF"/>
+  <ellipse cx="180" cy="205" rx="15" ry="10" fill="#FFFFFF"/>
   
-  <!-- Hair -->
-  <path d="M125 145 Q150 120 175 145" fill="#21262D"/>
+  <!-- Paw details -->
+  <circle cx="115" cy="202" r="3" fill="#FFB6C1"/>
+  <circle cx="125" cy="202" r="3" fill="#FFB6C1"/>
+  <circle cx="175" cy="202" r="3" fill="#FFB6C1"/>
+  <circle cx="185" cy="202" r="3" fill="#FFB6C1"/>
   
-  <!-- Eyes -->
-  <circle cx="142" cy="155" r="3" fill="#0D1117"/>
-  <circle cx="158" cy="155" r="3" fill="#0D1117">
-    <animate attributeName="ry" values="3;0.5;3" dur="3s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Cat head -->
+  <circle cx="150" cy="140" r="45" fill="#1A1A1A"/>
   
-  <!-- Smile -->
-  <path d="M140 165 Q150 175 160 165" fill="none" stroke="#0D1117" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cow print hat -->
+  <ellipse cx="150" cy="105" rx="50" ry="25" fill="#FFFFFF"/>
+  <circle cx="130" cy="100" r="12" fill="#1A1A1A"/>
+  <circle cx="165" cy="95" r="10" fill="#1A1A1A"/>
+  <circle cx="145" cy="115" r="8" fill="#1A1A1A"/>
+  <circle cx="175" cy="110" r="6" fill="#1A1A1A"/>
   
-  <!-- Laptop base -->
-  <rect x="95" y="175" width="110" height="8" rx="2" fill="#21262D"/>
+  <!-- Hat brim -->
+  <ellipse cx="150" cy="118" rx="55" ry="12" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Cat ears -->
+  <polygon points="110,120 120,80 135,115" fill="#1A1A1A"/>
+  <polygon points="165,115 180,80 190,120" fill="#1A1A1A"/>
+  <polygon points="115,118 122,88 132,115" fill="#FFB6C1"/>
+  <polygon points="168,115 178,88 185,118" fill="#FFB6C1"/>
+  
+  <!-- Cat face - white patch -->
+  <ellipse cx="150" cy="150" rx="25" ry="20" fill="#FFFFFF"/>
+  
+  <!-- Cat eyes -->
+  <ellipse cx="138" cy="142" rx="8" ry="9" fill="#90EE90"/>
+  <ellipse cx="162" cy="142" rx="8" ry="9" fill="#90EE90"/>
+  <ellipse cx="138" cy="142" rx="4" ry="5" fill="#1A1A1A"/>
+  <ellipse cx="162" cy="142" rx="4" ry="5" fill="#1A1A1A"/>
+  <circle cx="136" cy="140" r="2" fill="#FFFFFF"/>
+  <circle cx="160" cy="140" r="2" fill="#FFFFFF"/>
+  
+  <!-- Cat nose -->
+  <ellipse cx="150" cy="155" rx="4" ry="3" fill="#FFB6C1"/>
+  
+  <!-- Cat mouth -->
+  <path d="M145 160 Q150 165 155 160" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+  
+  <!-- Whiskers -->
+  <line x1="120" y1="150" x2="95" y2="145" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="120" y1="155" x2="95" y2="158" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="120" y1="160" x2="95" y2="170" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="180" y1="150" x2="205" y2="145" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="180" y1="155" x2="205" y2="158" stroke="#1A1A1A" stroke-width="1.5"/>
+  <line x1="180" y1="160" x2="205" y2="170" stroke="#1A1A1A" stroke-width="1.5"/>
+  
+  <!-- Laptop -->
+  <rect x="80" y="195" width="140" height="10" rx="2" fill="#21262D"/>
   
   <!-- Laptop screen -->
-  <rect x="100" y="120" width="100" height="55" rx="4" fill="url(#screen)" stroke="#30363D" stroke-width="2"/>
+  <rect x="85" y="130" width="130" height="65" rx="4" fill="#161B22" stroke="#30363D" stroke-width="2"/>
   
-  <!-- Screen glare -->
-  <rect x="102" y="122" width="96" height="2" fill="rgba(255,255,255,0.1)"/>
-  
-  <!-- Code lines on screen -->
-  <rect x="108" y="130" width="35" height="4" rx="1" fill="#3FB950" opacity="0.8">
-    <animate attributeName="width" values="35;50;35" dur="2s" repeatCount="indefinite"/>
+  <!-- Screen content - code -->
+  <rect x="92" y="138" width="40" height="4" rx="1" fill="#3FB950" opacity="0.8">
+    <animate attributeName="width" values="40;55;40" dur="2s" repeatCount="indefinite"/>
   </rect>
-  <rect x="108" y="138" width="50" height="4" rx="1" fill="#58A6FF" opacity="0.8">
-    <animate attributeName="width" values="50;30;50" dur="2.5s" repeatCount="indefinite"/>
+  <rect x="92" y="146" width="55" height="4" rx="1" fill="#58A6FF" opacity="0.8">
+    <animate attributeName="width" values="55;35;55" dur="2.5s" repeatCount="indefinite"/>
   </rect>
-  <rect x="108" y="146" width="25" height="4" rx="1" fill="#FFA116" opacity="0.8">
-    <animate attributeName="width" values="25;45;25" dur="1.8s" repeatCount="indefinite"/>
+  <rect x="92" y="154" width="30" height="4" rx="1" fill="#FFA116" opacity="0.8">
+    <animate attributeName="width" values="30;50;30" dur="1.8s" repeatCount="indefinite"/>
   </rect>
-  <rect x="108" y="154" width="40" height="4" rx="1" fill="#C084FC" opacity="0.8">
-    <animate attributeName="width" values="40;20;40" dur="2.2s" repeatCount="indefinite"/>
+  <rect x="92" y="162" width="45" height="4" rx="1" fill="#C084FC" opacity="0.8">
+    <animate attributeName="width" values="45;25;45" dur="2.2s" repeatCount="indefinite"/>
   </rect>
-  <rect x="108" y="162" width="30" height="4" rx="1" fill="#F75C7E" opacity="0.8">
-    <animate attributeName="width" values="30;55;30" dur="2.8s" repeatCount="indefinite"/>
+  <rect x="92" y="170" width="35" height="4" rx="1" fill="#F75C7E" opacity="0.8">
+    <animate attributeName="width" values="35;55;35" dur="2.8s" repeatCount="indefinite"/>
   </rect>
-  
-  <!-- Cursor -->
-  <rect x="108" y="168" width="2" height="6" fill="#3FB950">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <rect x="92" y="178" width="25" height="4" rx="1" fill="#3FB950" opacity="0.8">
+    <animate attributeName="width" values="25;45;25" dur="2s" repeatCount="indefinite"/>
   </rect>
   
-  <!-- Coffee cup -->
-  <rect x="220" y="165" width="15" height="18" rx="2" fill="#F0F6FC"/>
-  <rect x="235" y="170" width="8" height="10" rx="4" fill="none" stroke="#F0F6FC" stroke-width="2"/>
-  
-  <!-- Steam -->
-  <path d="M225 160 Q227 155 225 150" fill="none" stroke="#8B949E" stroke-width="1.5" opacity="0.6">
-    <animate attributeName="d" values="M225 160 Q227 155 225 150;M225 160 Q223 155 225 148;M225 160 Q227 155 225 150" dur="2s" repeatCount="indefinite"/>
-  </path>
-  <path d="M230 160 Q232 155 230 150" fill="none" stroke="#8B949E" stroke-width="1.5" opacity="0.6">
-    <animate attributeName="d" values="M230 160 Q232 155 230 150;M230 160 Q228 155 230 148;M230 160 Q232 155 230 150" dur="2.5s" repeatCount="indefinite"/>
-  </path>
-  
-  <!-- Plant -->
-  <rect x="55" y="165" width="12" height="15" rx="2" fill="#238636"/>
-  <ellipse cx="61" cy="155" rx="15" ry="12" fill="#3FB950"/>
+  <!-- Cursor blink -->
+  <rect x="92" y="185" width="2" height="6" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
   
   <!-- Keyboard -->
-  <rect x="110" y="183" width="80" height="5" rx="1" fill="#161B22"/>
+  <rect x="90" y="205" width="120" height="8" rx="2" fill="#161B22"/>
   
-  <!-- Keyboard lights -->
-  <circle cx="120" cy="185" r="1" fill="#3FB950" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="130" cy="185" r="1" fill="#58A6FF" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
-  </circle>
-  <circle cx="140" cy="185" r="1" fill="#FFA116" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
-  </circle>
-  <circle cx="150" cy="185" r="1" fill="#C084FC" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="0.9s"/>
-  </circle>
-  <circle cx="160" cy="185" r="1" fill="#F75C7E" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.2s"/>
-  </circle>
-  <circle cx="170" cy="185" r="1" fill="#3FB950" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
-  </circle>
-  <circle cx="180" cy="185" r="1" fill="#58A6FF" opacity="0.5">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite" begin="1.8s"/>
-  </circle>
+  <!-- Keyboard keys -->
+  <rect x="95" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="106" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="117" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="128" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="139" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="150" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="161" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="172" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="183" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  <rect x="194" y="207" width="8" height="4" rx="1" fill="#30363D"/>
+  
+  <!-- Text -->
+  <text x="150" y="260" text-anchor="middle" font-family="monospace" font-size="12" fill="#8B949E">
+    <tspan>Coding Cat 🐱</tspan>
+  </text>
+  <text x="150" y="278" text-anchor="middle" font-family="monospace" font-size="10" fill="#484F58">
+    <tspan>eat() sleep() code() repeat()</tspan>
+  </text>
 </svg>

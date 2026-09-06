@@ -26,7 +26,7 @@
 </p></h2>
 <!--💻Big SVG Coding-->
   <a href="https://github.com/lieutenant-Rohit">
-<img align='right' src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/coding-animation.gif" width="300"></a>
+<img align='right' src="https://raw.githubusercontent.com/lieutenant-Rohit/lieutenant-Rohit/main/coding-animation.svg" width="300"></a>
 
 <!--💫 About Me-->
 
