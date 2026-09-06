@@ -282,7 +282,9 @@
 <table width="100">
         <tr border="0">
       <td align='center' width="1010">
-  <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=lieutenant-Rohit&theme=github-dark&hide_border=true&area=true" img alt="lieutenant-Rohit's Activity Graph"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lieutenant-Rohit&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</a>
 </td>
 </tr>
 </table>
