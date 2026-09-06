@@ -280,10 +280,16 @@
 </details>
 
 <details>
-  <summary><h2 align='center'><a href="https://github.com/lieutenant-Rohit">
-<img src="https://github.com/user-attachments/assets/11fc054d-081b-4f1e-8d9e-84b3e10f49bc" width = 35px height = 35px></a> Holopin Badges</h2>
+  <summary><h2 align='center'>🏆 Badges</h2>
   </summary>
-  <p><a href="https://www.holopin.io/@lieutenant-Rohit"><img src="https://www.holopin.me/@lieutenant-Rohit" alt="@lieutenant-Rohit&#39;s Holopin board"></a></p>
+  <div align="center">
+    <a href="https://github.com/lieutenant-Rohit">
+      <img src="https://img.shields.io/badge/-Pull%20Shark-388bfd?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark">
+    </a>
+    <a href="https://github.com/lieutenant-Rohit">
+      <img src="https://img.shields.io/badge/-YOLO-fc291b?style=for-the-badge&logo=github&logoColor=white" alt="YOLO">
+    </a>
+  </div>
   
 </details>
 
