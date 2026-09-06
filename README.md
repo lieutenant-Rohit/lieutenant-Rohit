@@ -187,7 +187,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="65">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="65">
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="65" height="65">
 </p>
 
 <h3>💻 Software & Tools</h3>
