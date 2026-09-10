@@ -117,15 +117,20 @@
   <tr>
     <td width="60" valign="top" align="center"><h1>🌸</h1></td>
     <td>
-      <h3><a href="https://github.com/lieutenant-Rohit/BloomsCafe">BloomsCafe</a></h3>
-      <p><i>Full-Stack E-commerce Platform with Microservices Architecture</i><br>
-      A complete online store featuring product catalog, shopping cart, secure checkout, and admin dashboard. Built with React frontend + Java Spring Boot microservices backend with Docker containerization.</p>
+      <h3><a href="https://github.com/lieutenant-Rohit/Cafe-Ecommerce-Microservices">BloomCafeV2</a></h3>
+      <p><i>Full-Stack Cafe Ordering Platform — Microservices Architecture</i><br>
+      A production-grade e-commerce platform for a cafe on Rajpur Road, Dehradun. Features 6 microservices (User, Catalog, Cart, Order, Inventory, Notification) with event-driven architecture using Kafka, Redis caching, real-time WebSocket notifications, JWT auth, and role-based admin panel. Supports dual-mode cart (backend-synced + localStorage for anonymous users), saga-like distributed checkout, and database-per-service isolation.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Java_21-007396?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/WebSocket-00ADD8?style=flat&logo=socketdotio&logoColor=white">
       </p>
     </td>
   </tr>
